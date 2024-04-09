@@ -1,0 +1,119 @@
+* {
+   /* margin: 10px;*/
+}
+
+#uno {
+    background-color: aquamarine;
+    color: black;
+    width: 50%;
+    margin: auto;
+    border: black solid 3px ;
+    padding-left :40px}
+
+
+#dos {
+    background-color: blueviolet;
+    color: antiquewhite;
+    width: 80%;
+    margin-top: 50px;
+
+}
+animate__bounce
+
+/* * {
+    margin: 0;
+}
+body{
+    font-family: "Nunito", sans-serif;
+}
+h3 {
+    color: aquamarine
+}
+
+ 
+
+h4 {
+    color: purple;
+    font-size: 16px;
+    font-family: "Roboto Flex" ;
+}
+
+p {
+    color: black;
+    font-family: "Nunito", sans-serif;
+
+}
+
+h5 {
+    color: cornflowerblue;
+    background-color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.pesAmarillas {
+    color: azure;
+    background-color: yellow;
+}
+
+.descuento {
+    color: beige;
+}
+
+#p-sola {
+    color: pink;
+}
+
+/*
+header {
+    background-color: greenyellow;
+    width: 500px;
+    height: 400px;
+}*/
+/*
+header {
+    background-color: greenyellow;
+    width: 50%;
+    height: 400px;}
+ 
+header {
+    /*   background-color: greenyellow;*/
+/* la pongo de fondo
+background-image: url('60minutes.jpg');
+
+background-size: cover;
+width: 100%;
+height: 600px;
+
+}
+
+nav {
+    width: 600px;
+    height: 200px;
+
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main {
+    margin-top: 20px;
+    width: 100%;
+}
+
+section {
+    text-align: center;
+}
+
+#sector-imagen {
+    height: 500px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
+*/
+#sector-imagen{
+background-image: url('60minutes.jpg');
+
+background-size: cover;
+width: 100%;
+height: 600px;
+
+}
